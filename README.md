@@ -4,11 +4,6 @@ Assignment for Frontend Development Challenge July, 2024.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
 
-## Code Coverage
-
-Unit tests for 1 component and 1 service with 100% code coverage for the component (`add-user.component.ts`) and service (`add-user.service.ts`) included in the respective spec files.
-
-![alt text](images/coverage.png)
 
 ## Website
 
