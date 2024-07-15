@@ -86,10 +86,6 @@ Design an Angular 14+ single-page application (SPA) to track workouts.
 - **Styling**:
   - Use Tailwind CSS.
  
-- **Code Formatting**:
-  - Added `.prettierrc` file in the project for consistent code formatting settings
-  - Added `.prettierignore` file to specify files and directories that should be excluded from Prettier formatting.
-
 - **Deployment**:
 
   - Hosted on Vercel.
